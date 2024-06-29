@@ -13,7 +13,7 @@ Desarrollador Full-Stack | Angular & Express.js
 ### Habilidades profesionales
  - **Frontend:** Angular, Javascript, Typescript, HTML, CSS
  - **Backend:** Express.js, Node.js, MongoDB
- - **Herramientas:** Linux, Docker, Git
+ - **Herramientas:** Linux, Kali, Docker, Git
 
 ### Otros intereses
  - C++
