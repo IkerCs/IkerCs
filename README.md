@@ -6,7 +6,7 @@ Desarrollador Full-Stack | Angular & Express.js
 * Soy un desarrollador **full-stack**, con experiencia en crear aplicaciones web impactantes.
 * Me especializo en **Angular** para construir interfaces de usuario modernas, interactivas y que ayudan a construir una imagen de marca sólida
 * Utilizo **Express.js** para desarrollar backends robustos y de alto rendimiento, capaces de manejar un gran número de clientes y solicitudes.
-* En mi tiempo libre, me apasiona explorar el mundo de la **robótica** y de **C++**
+* En mi tiempo libre, me apasiona explorar el mundo de la **robótica**, de **C++** y poco a poco voy mejorando en mis habilidades de **pen-testing** en desarrollo web
 
 ## Habilidades técnicas
 
@@ -31,4 +31,6 @@ Desarrollador Full-Stack | Angular & Express.js
 
 ## Contacto
  - LinkedIn: [Iker Cossío García](https://mx.linkedin.com/in/iker-coss%C3%ADo-garc%C3%ADa-97aa3924b)
- - Correo: [A01283181@tec.mx](mailto:A01283181@tec.mx)
+ - Correo Institucional: [A01283181@tec.mx](mailto:A01283181@tec.mx)
+ - Correo Profesional: [hola@kerco.mx](mailto:hola@kerco.mx)
+ - Correo Personal: [ikercsv@gmail.com](mailto:ikercsv@gmail.com)
