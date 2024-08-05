@@ -23,8 +23,8 @@ Desarrollador Full-Stack | Angular & Express.js
 ## Proyectos
  - [_2023_ - presente] [**AIZER**](https://github.com/AIZER-egl) Un comunidad estudiantil enfocado a la robótica y programación, iniciado por mí. Este proyecto me ha ayudado a crecer habilidades de **liderazgo**, **trabajo en equipo** y **negocios**.
  - [_2024_ - presente] [**Kerco**](https://kerco.mx/) Un proveedor de servicios web, que utiliza tecnologías modernas como Angular, Express.js y MongoDB para ofrecer soluciones personalizadas y escalables para negocios de todos los tamaños.
-   - [kerco-api](https://api.kerco.mx) Una API REST que centraliza la comunicación entre los sitios web de Kerco y el servidor. Su diseño unificado agiliza el desarrollo y garantiza una experiencia consistente en todos los sitios.
-   - [mehd](https://mehd.mx) una marca de productos enfocados al cuidado podológico, expande su negocio a través de una tienda online con Kerco.
+   - [kerco-api](https://api.kerco.mx) [Beta] Una API REST que centraliza la comunicación entre los sitios web de Kerco y el servidor. Su diseño unificado agiliza el desarrollo y garantiza una experiencia consistente en todos los sitios.
+   - [mehd](https://mehd.mx) [Alpha] una marca de productos enfocados al cuidado podológico, expande su negocio a través de una tienda online con Kerco.
    - [maia](https://maia.mx) un restaurante que ofrece flexibilidad a sus clientes con reservaciones en línea que les ha permitido alcanzar a nuevos clientes.
 
 
