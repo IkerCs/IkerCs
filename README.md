@@ -14,6 +14,7 @@ Desarrollador Full-Stack | Angular & Express.js
  - **Frontend:** Angular, Javascript, Typescript, HTML, CSS
  - **Backend:** Express.js, Node.js, MongoDB
  - **Herramientas:** Linux, Kali, Docker, Git
+ - **Comunicación:** Español (Nativo), Inglés (C1), Alemán (B2)
 
 ### Otros intereses
  - C++
